@@ -11,8 +11,6 @@ A simple Flask web application that provides a search API for fetching comments 
 - [Setup](#setup)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
