@@ -10,7 +10,6 @@ A simple Flask web application that provides a search API for fetching comments 
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 
 ## Introduction
 
@@ -43,7 +42,7 @@ Copy code
 python app.py
 The app will be accessible at http://127.0.0.1:5000/.
 
-Usage
+##Usage
 To use the search API, make HTTP GET requests to the /search endpoint with the appropriate query parameters. See the API Endpoints section for examples.
 
 API Endpoints
